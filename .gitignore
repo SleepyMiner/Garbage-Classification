@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Dataset
+/dataset
+
+# Model
+garbage_classification_model.pth
